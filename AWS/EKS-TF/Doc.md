@@ -43,4 +43,4 @@ Create and IAM role and attach it Terraform installed EC2 Instance:-
     ]
 }
 ```
-Now run <sub> terraform  init </sub> and run 
+Now run <sub> terraform  init </sub> and run the terraform file in this path "AWS/EKS-TF/EKS-TF-script.tf".
